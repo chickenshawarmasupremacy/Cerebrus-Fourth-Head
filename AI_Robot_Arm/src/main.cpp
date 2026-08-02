@@ -16,30 +16,7 @@ Servo myServo;
 
 const int inputPin = A0;
 const int outputPin = A3;
-/*
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(115200);
-  pinMode(inputPin, INPUT);
-  pinMode(outputPin, OUTPUT);
-  myServo.attach(outputPin);
-}
 
-void loop() {
-  // put your main code here, to run repeatedly:
-  int input_value = analogRead(inputPin);
-  int final_val = (input_value/(91/4));
-  Serial.print("The value is: ");
-  Serial.println(final_val);
-  myServo.write(final_val);
-  delay(15);
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
-}
-*/
 
 int pos = 0;   
 void  setup() {
