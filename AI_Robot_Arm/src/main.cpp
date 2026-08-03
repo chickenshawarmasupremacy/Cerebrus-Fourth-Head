@@ -13,16 +13,14 @@ Servo myServo;
 Servo myServo2;
 
 const int inputPin = A0;
-const int outputPin1 = 3;
-const int outputPin2 = 2;
+const int outputPin = A3;
 
-void setup() {
+
+int pos = 0;   
+void  setup() {
+  myServo.attach(outputPin);  // attaches the servo on pin 9 to the servo object
   Serial.begin(115200);
-  pinMode(inputPin, INPUT);
-  pinMode(outputPin1, OUTPUT);
-  pinMode(outputPin2, OUTPUT);
-  myServo.attach(outputPin1);
-  myServo2.attach(outputPin2);
+  myServo.attach(outputPin);
 }
 
 void loop() {
