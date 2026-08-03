@@ -1,10 +1,11 @@
-/* Code written by Izyan Khan
-Simple potentiometer to control the 
-*/
-
-//
+//Code written to have a simple command to control the double servo base 
+//Code by Izyan Khan
+//Some license name here (please nobody steal this)
 
 
+
+#include <Arduino.h>
+#include <Servo.h>
 
 #include <Arduino.h>
 #include <Servo.h>
@@ -46,4 +47,3 @@ void loop() {
       Serial.println("Please enter a valid input (a or d): ");
     }
   }
-
