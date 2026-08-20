@@ -1,0 +1,11 @@
+# VS Code IntelliSense cache (large, machine-specific)
+**/.vscode/browse.vc.db
+**/.vscode/ipch/
+
+# PlatformIO build artifacts
+.pio/
+**/.pio/
+
+# OS files
+.DS_Store
+Thumbs.db
