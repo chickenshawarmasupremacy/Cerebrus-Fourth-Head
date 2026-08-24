@@ -1,0 +1,13 @@
+Category,Item,Qty,Specification / Notes,Suggested Purchase Link
+Controller,ESP32 Dev Board,1,"ESP32-WROOM-32 (or equivalent), used for servo control logic",https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/9356990
+Actuator,MG90S Micro Servo,3,"1.8-2.2kg/cm torque, 4.8-6V, metal gear",https://www.amazon.com/Turnigy-MG90S-Digital-Metal-0-10sec/dp/B00URCIQGQ
+Actuator,MG996R Standard Servo,3,"~13-15kg/cm torque, 4.8-6V, metal gear",https://www.amazon.com/Hosyond-MG996R-Digital-Motors-Helicopter/dp/B0BYD9M1P3
+Actuator,DS3218 High-Torque Servo,1,"20kg/cm torque, 270°, waterproof, metal gear",https://www.amazon.com/DS3218-Digital-Control-Waterproof-Degrees/dp/B0GQM8KZ7B
+Power,Toshiba Buck Converter,1,"Fill in exact part number and input/output voltage + current rating",https://www.digikey.com/en/products/filter/dc-dc-switching-regulators/74
+Power,12V to 5V Buck Converter Module,1,"15A, wire-lead interface, steps 12V rail down to 5V logic supply",https://www.amazon.com/Converter-Voltage-Module-Supply-DCCON-C15/dp/B00BN369SA
+Power,9V Battery Clip Connector,2,"I-type snap connector, wire leads",https://www.amazon.com/LBTODH-Battery-Connector-Flexible-Plastic/dp/B092TG1TSQ
+Power,AA Battery Holder (4-slot),1,"4x AA holder with wire leads, 6V output",https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Wires/dp/B07T7MTRZX
+Wiring,Hookup wire (~1m),1,"22 AWG solid-core hookup wire kit, 6 colors, ~30ft/spool - cut to length as needed",https://www.amazon.com/TUOFENG-Hookup-Wires-6-Different-Colored/dp/B07TX6BX47
+Wiring,ELEGOO Dupont Jumper Wire Pack,1,"120pcs multicolored M-F/M-M/F-F breadboard jumper wires",https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78
+Wiring,Perf board,1,"Fill in board size used",https://www.adafruit.com/product/2670
+Mechanical,PLA+ Filament (500g used),1,"ELEGOO PLA+ 1.75mm, 1kg spool (smallest standard size - ~500g needed for this build)",https://www.amazon.com/ELEGOO-Filament-Toughness-Dimensional-Accuracy/dp/B0D41ZDC47
