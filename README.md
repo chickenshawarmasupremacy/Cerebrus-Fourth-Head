@@ -1,6 +1,6 @@
 <img width="2194" height="1380" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/051b389d-34d8-4586-a878-e5041f019118" />Cerebrus-Fourth-Head
 
-A multi-servo robotic arm/head platform built around an ESP32, with a dedicated high-current power architecture for driving seven mixed-type servos independently from the logic rail.
+A multi-servo robotic arm/head platform built around an ESP32, with a dedicated high-current power architecture for driving seven mixed-type servos independently from the logic rail. Used for learning purposes and to serve as a base for the implementation of advanced AI models and for practice with ROS2, Gazebo, and other such softwares
 
 Table of Contents
 Overview
