@@ -2,7 +2,7 @@
 Simple robot arm control
 */
 
-<<<<<<< HEAD
+
 #include <Arduino.h>
 #include <Servo.h>
 
