@@ -44,8 +44,9 @@ Source file: wiring_diagram.svg — edit directly in any vector editor (Inkscape
 An interactive version of this circuit is also maintained on Cirkit Designer.
 
 CAD
-Native CAD source: View/download on Fusion 360
-STEP exports: in progress — individual .STEP files for each designed part will be added to /cad/step/. Until then, refer to the native Fusion 360 link above.
+Native CAD source: View/download on Fusion 360 at: https://a360.co/4wOWuL7
+Shapr3D link: https://app.shapr3d.com/p/7f951f56-316d-4975-8dc6-9f119cc89c82
+STEP exports: listed in the models folder
 
 
 Firmware
